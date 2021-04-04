@@ -11,6 +11,7 @@ author={Ribeiro, Manoel Horta and Gligori{\'c}, Kristina and Peyrard, Maxime
 booktitle = {Proceedings of the 15th International AAAI 
              Conference on Weblogs and Social Media (ICWSM'21)},
 year={2021}
+}
 ~~~ 
  
  Analyses were done in Jupyter notebooks that are in the `/notebooks/` folder. 
