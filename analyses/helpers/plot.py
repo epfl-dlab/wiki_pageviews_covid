@@ -87,7 +87,7 @@ def plot_dates(ax, start, end, x, y, xticklabels=True, ls="solid", adjust=False,
     return weekday(start.weekday()), weekday(end.weekday())
 
 
-def plot_intervention(ax, interventions, lang, intervention, interventions_helper, int_ls, int_c, th=2, size=9):
+def plot_intervention(ax, interventions, lang, intervention, interventions_helper, int_ls, int_c, th=2, size=11):
     xsint = []
 
     trans = transforms.blended_transform_factory(
