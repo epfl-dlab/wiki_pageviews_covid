@@ -1,7 +1,7 @@
 # Code and data for "Sudden Attention Shifts on Wikipedia During the COVID-19 Crisis"
 
 This repo contains replication data and code for the paper "Sudden Attention Shifts on Wikipedia During the 
-COVID-19 Crisis" published at ICWSM 2015 ([preprint](https://arxiv.org/pdf/2005.08505.pdf)).
+COVID-19 Crisis" published at ICWSM 2021 ([preprint](https://arxiv.org/pdf/2005.08505.pdf)).
 
 ~~~bibtex
 @article{ribeiro2021sudden,
